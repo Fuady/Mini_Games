@@ -29,3 +29,4 @@ pip install pygame
 python snake_game.py
 ```
 
+## 2048 Game
