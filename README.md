@@ -13,3 +13,18 @@ The Snake Game is a classic arcade-style game where you control a green snake na
 5. The player's score increases by 1 for each piece of food eaten.
 6. You can pause or resume the game at any time using the space bar.
 7. Pressing the escape key immediately exits the game.
+
+### How to play
+
+1. Install the `pygame` library if you don’t have it already:
+```bash
+pip install pygame
+```
+
+2. Run the script:
+```bash
+python snake_game.py
+```
+
+bash
+Salin kode
