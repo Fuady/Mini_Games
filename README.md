@@ -37,10 +37,10 @@ python snake_game.py
 
 ### Controls
 
- - **&uarr :** Move tiles up.
- - **&larr :** Move tiles left.
- - **&darr :** Move tiles down.
- - **&rarr :** Move tiles right.
+ - **&uarr; :** Move tiles up.
+ - **&larr; :** Move tiles left.
+ - **&darr; :** Move tiles down.
+ - **&rarr; :** Move tiles right.
  - **Esc:** Quit the game.
 
    Up arrow (↑): &uarr;
