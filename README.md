@@ -69,10 +69,6 @@ python 2048_game_colors.py
 Rock Paper Scissors is a simple but engaging game where two players simultaneously choose one of three options: Rock, Paper, or Scissors. In this digital version, you play against a computer opponent that randomly selects its moves, while keeping track of your score and match history.
 
 ### Rules
-**Basic Mechanics:**
-- Rock crushes Scissors
-- Scissors cuts Paper
-- Paper covers Rock
 
 **Winning Conditions:**
 - Rock beats Scissors
