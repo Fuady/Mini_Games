@@ -43,11 +43,6 @@ python snake_game.py
  - **&rarr; :** Move tiles right.
  - **Esc:** Quit the game.
 
-   Up arrow (↑): &uarr;
-Down arrow (↓): &darr;
-Left arrow (←): &larr;
-Right arrow (→): &rarr;
-
 ### Rules
 
 Tiles with the same number combine into one when they collide. After every move, a new tile (2 or 4) appears randomly on the board. The game ends when no valid moves are left.
@@ -61,6 +56,6 @@ pip install pygame
 
 2. Run the script:
 ```bash
-python 2048_game.py
+python 2048_game_colors.py
 ```
 
