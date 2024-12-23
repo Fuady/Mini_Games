@@ -47,3 +47,15 @@ python snake_game.py
 
 Tiles with the same number combine into one when they collide. After every move, a new tile (2 or 4) appears randomly on the board. The game ends when no valid moves are left.
 
+### How to play
+
+1. Install the `pygame` library if you don’t have it already:
+```bash
+pip install pygame
+```
+
+2. Run the script:
+```bash
+python 2048_game.py
+```
+
