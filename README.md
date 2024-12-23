@@ -30,3 +30,6 @@ python snake_game.py
 ```
 
 ## 2048 Game
+
+### Descriptions
+
