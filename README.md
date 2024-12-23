@@ -32,4 +32,4 @@ python snake_game.py
 ## 2048 Game
 
 ### Descriptions
-
+2048 game is a classic sliding tile puzzle game where the player combines tiles with the same value to reach the tile with the number 2048. This game will be text-based and can be played in the terminal.
