@@ -59,3 +59,38 @@ pip install pygame
 python 2048_game_colors.py
 ```
 
+## Rock, Paper, Scissors Game
+
+### Descriptions
+
+Rock Paper Scissors is a simple but engaging game where two players simultaneously choose one of three options: Rock, Paper, or Scissors. In this digital version, you play against a computer opponent that randomly selects its moves, while keeping track of your score and match history.
+
+### Rules
+**Basic Mechanics:**
+- Rock crushes Scissors
+- Scissors cuts Paper
+- Paper covers Rock
+
+**Winning Conditions:**
+- Rock beats Scissors
+- Scissors beats Paper
+- Paper beats Rock
+- Same choices result in a tie
+
+**Scoring System:**
+- Win: Player score increases by 1
+- Lose: Computer score increases by 1
+- Tie: No score change
+
+### How to play
+
+1. Install the `pygame` library if you don’t have it already:
+```bash
+pip install pygame
+```
+
+2. Run the script:
+```bash
+python rock-paper-scissors.py
+```
+
