@@ -1,6 +1,7 @@
 # Mini Games
 This repository is a collection of my mini-games that is created using Python with its pygame library
 
+
 ## Snake Game
 
 ### Descriptions
@@ -28,6 +29,7 @@ pip install pygame
 ```bash
 python snake_game.py
 ```
+
 
 ## 2048 Game
 
@@ -58,6 +60,7 @@ pip install pygame
 ```bash
 python 2048_game_colors.py
 ```
+
 
 ## Rock, Paper, Scissors Game
 
