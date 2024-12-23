@@ -2,10 +2,13 @@
 This repository is a collection of my mini-games that is created using Python with its pygame library
 
 ## Snake Game
+
 ### Descriptions
+
 The Snake Game is a classic arcade-style game where you control a green snake navigating a rectangular playing field. The goal is to eat as much food as possible, represented as black squares, to increase your score and grow the snake's length. As the snake grows, the game becomes more challenging as you must avoid colliding with your own body.
 
 ### Rules
+
 1. Move the snake using your up, down, left, and right buttons.
 2. The game ends only if the snake's head collides with its own body.
 3. The snake grows in length each time it eats food, increasing the difficulty.
@@ -26,5 +29,3 @@ pip install pygame
 python snake_game.py
 ```
 
-bash
-Salin kode
