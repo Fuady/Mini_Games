@@ -2,7 +2,7 @@
 This repository is a collection of my mini-games that is created using Python with its pygame library
 
 
-## Snake Game
+## 1. Snake Game
 
 ### Descriptions
 
@@ -31,7 +31,7 @@ python snake_game.py
 ```
 
 
-## 2048 Game
+## 2. 2048 Game
 
 ### Descriptions
 
@@ -62,7 +62,7 @@ python 2048_game_colors.py
 ```
 
 
-## Rock, Paper, Scissors Game
+## 3. Rock, Paper, Scissors Game
 
 ### Descriptions
 
