@@ -35,7 +35,7 @@ python snake_game.py
 
 2048 game is a classic sliding tile puzzle game where the player combines tiles with the same value to reach the tile with the number 2048. This game will be text-based and can be played in the terminal.
 
-### Controls:
+### Controls
 
  - **W:** Move tiles up.
  - **A:** Move tiles left.
@@ -43,7 +43,7 @@ python snake_game.py
  - **D:** Move tiles right.
  - **Q:** Quit the game.
    
-### Rules: 
+### Rules
 
 Tiles with the same number combine into one when they collide. After every move, a new tile (2 or 4) appears randomly on the board. The game ends when no valid moves are left.
 
