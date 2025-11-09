@@ -93,3 +93,32 @@ pip install pygame
 python rock-paper-scissors.py
 ```
 
+
+## 4. Sudoku Game
+
+### Descriptions
+
+A simple and interactive **Sudoku** game built using **Python** and **Pygame**.  
+Play Sudoku in a clean 9x9 grid, track your time and progress, and test your logic!
+
+### Features
+
+- 9x9 Sudoku grid with some pre-filled numbers  
+- Click and type numbers (1–9) to fill cells  
+- Real-time **timer** at the top-right  
+- **Score counter** (number of filled cells) at the top-left  
+- "Congratulations" message when the board is complete  
+- Simple and lightweight — runs locally  
+
+
+### How to play
+
+1. Install the `pygame` library if you don’t have it already:
+```bash
+pip install pygame
+```
+
+2. Run the script:
+```bash
+python sudoku_game.py
+```
