@@ -122,3 +122,35 @@ pip install pygame
 ```bash
 python sudoku_game.py
 ```
+
+## 5. Tic-Tac-Toe Game
+
+### Descriptions
+
+This is a simple and interactive **Tic Tac Toe** game built using **Python and Pygame**.  
+It’s a classic 3x3 board game where two players — **X** and **O** — take turns marking the spaces in a grid.  
+The goal is to place three marks in a **row**, **column**, or **diagonal** to win the round.  
+
+
+### Rules
+
+- The game is played on a 3x3 grid.
+- Two players alternate turns X always goes first.
+- A player wins when they successfully align three of their symbols:
+-- In a **row**
+-- In a **column**
+-- Or **diagonal**
+- If all 9 cells are filled and no player has won, the round ends in a draw.
+- The scoreboard keeps track of wins for each player across multiple rounds.
+
+### How to play
+
+1. Install the `pygame` library if you don’t have it already:
+```bash
+pip install pygame
+```
+
+2. Run the script:
+```bash
+python tic_tac_toe_game.py
+```
