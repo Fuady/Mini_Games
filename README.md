@@ -135,7 +135,7 @@ The goal is to place three marks in a **row**, **column**, or **diagonal** to wi
 ### Rules
 
 - The game is played on a 3x3 grid.
-- Two players alternate turns — X always goes first.
+- Two players alternate turns X always goes first.
 - A player wins when they successfully align three of their symbols:
 -- In a **row**
 -- In a **column**
