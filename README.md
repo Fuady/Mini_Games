@@ -137,9 +137,9 @@ The goal is to place three marks in a **row**, **column**, or **diagonal** to wi
 - The game is played on a 3x3 grid.
 - Two players alternate turns — X always goes first.
 - A player wins when they successfully align three of their symbols:
--- In a row
--- In a column
--- Or diagonally
+-- In a **row**
+-- In a **column**
+-- Or **diagonal**
 - If all 9 cells are filled and no player has won, the round ends in a draw.
 - The scoreboard keeps track of wins for each player across multiple rounds.
 
